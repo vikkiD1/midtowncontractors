@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Midtown Contractors</title>
+</head>
+
+<body style="background-color:pink;color:white"width: 400px">
+<h1>welcome</h1>
+ Victoria Williams, general contractor. professionals
+This is a self made business. Here at midtown contractor we do general contracting. Things range from fixing drywalls to painting the entire house.  We come with the best service there is.  
+<a href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Wr4pHXyYCTEHCM&tbnid=m0d84ep7seu9NM:&ved=0CAUQjRw&url=http%3A%2F%2Fwww.jamesriverpaintingandhandyman.com%2Fpainting.html&ei=UjrLUdGROIPhrAGtu4HIDg&bvm=bv.48340889,d.aWM&psig=AFQjCNFucjX9FEoNXgjXk4gO4MNfoaoGuQ&ust=1372359630494998">Go to my page! </a>
+<img src="http://davespaintingcolorado.com/blog/wp-content/uploads/2008/01/paint2.jpg"alt= "our_fine paints" width= "220" length="220">
+<div id="container" style="width:500px">
+
+<div id="header" style="blue:#FFA500;">
+<h1 style="margin-bottom:0;">Midtown contractors</h1></div>
+
+<div id="menu" style="background-color:blue;#FFD700;height:200px;width:100px;float:left;">
+<b>what are we about</b><br>
+what do we do<br>
+want to learn more<br>
+JavaScript</div>
+
+<div id="content" style="background-color:red;height:200px;width:400px;float:left;">
+  Victoria Williams, general contractor. professionals
+	This is a self made business. Here at midtown contractor we do general contracting. Things range from fixing drywalls to painting the entire house.  We come with the best service there is.</div>
+	
+	<p> to contact us leave your information</p>
+	<form>
+	First name: <input type="text" name="firstname"><br>
+	Last name: <input type="text" name="lastname">
+	<form></p>
+	Phone Number: <input type="password" name="pwd">
+	</form>
+	<p></p><form name="input" action="html_form_action.asp" method="get">
+	Email: <input type="text" name="user">
+	<input type="submit" value="Submit">
+	</form>
+	</form>
+
+
+
+
+
+
+
+<div id="footer" style="backgroun-color:orange;#FFA500;clear:both;text-align:center;">
+Copyright © midtown contractors</div>
+
+</div>
+
+</body>
+</html>
